@@ -10,4 +10,5 @@
 |5    | AI Concepts  |[✍️](https://github.com/bhoop70233/AI-Concepts)  |
 |6     | AI Cheat Sheets |[✍️](https://github.com/bhoop70233/AI-Cheat-Sheets) |
 |7      |AI Books        |[✍️](https://github.com/bhoop70233/AI-Books) |
+|8       | AI PDFs       |[✍️](https://github.com/bhoop70233/AI-PDFs)  |
                     
