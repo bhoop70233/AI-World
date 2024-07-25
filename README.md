@@ -9,4 +9,5 @@
 |4   | AI Projects  |[✍️](https://github.com/bhoop70233/AI-Projects)                               |
 |5    | AI Concepts  |[✍️](https://github.com/bhoop70233/AI-Concepts)  |
 |6     | AI Cheat Sheets |[✍️](https://github.com/bhoop70233/AI-Cheat-Sheets) |
+|7      |AI Books        |[✍️]() |
                     
