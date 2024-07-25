@@ -12,17 +12,6 @@ Welcome to AI-World, an open-source repository dedicated to providing free and a
 
 We believe in the power of open knowledge and aim to make AI education and resources accessible to everyone, regardless of their background or expertise. Whether you are a beginner or an expert, AI-World has something for you.
 
-## Contribution
-
-We invite and encourage contributions from the community to make AI-World an even better resource. If you have valuable content to share or want to improve existing materials, please feel free to contribute. Here are some ways you can help:
-
-- Submit AI research papers, courses, projects, or any other relevant content.
-- Improve existing explanations and add new examples to AI concepts.
-- Create or update cheat sheets for quick reference.
-- Share AI-related books and PDFs that are legally available for free distribution.
-- Provide feedback and suggestions to help us improve the repository.
-
-Together, we can build a rich and diverse repository that benefits everyone interested in artificial intelligence.
 
 
 |  S.No |  Content | Link  |
@@ -36,3 +25,17 @@ Together, we can build a rich and diverse repository that benefits everyone inte
 |7      |AI Books        |[✍️](https://github.com/bhoop70233/AI-Books) |
 |8       | AI PDFs       |[✍️](https://github.com/bhoop70233/AI-PDFs)  |
                     
+
+
+
+## Contribution
+
+We invite and encourage contributions from the community to make AI-World an even better resource. If you have valuable content to share or want to improve existing materials, please feel free to contribute. Here are some ways you can help:
+
+- Submit AI research papers, courses, projects, or any other relevant content.
+- Improve existing explanations and add new examples to AI concepts.
+- Create or update cheat sheets for quick reference.
+- Share AI-related books and PDFs that are legally available for free distribution.
+- Provide feedback and suggestions to help us improve the repository.
+
+Together, we can build a rich and diverse repository that benefits everyone interested in artificial intelligence.
